@@ -214,6 +214,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [1Password](https://1password.com/) - Password and secrets manager with encrypted vaults and secure sharing for individuals and teams.
 - [Backblaze](https://www.backblaze.com/) - Unlimited cloud backup for laptops plus S3-compatible object storage for larger archives.
 - [Pacsafe](https://pacsafe.com/) - Anti-theft backpacks, bags, and travel accessories with cut-resistant straps and lockable zippers.
+- [Screen-share pointer checklist](https://light-tracer.com/laser-pointer-screen-share-zoom-teams/) - Five checks for confirming that remote attendees can see the detail a presenter points to in Zoom or Teams.
 
 ## Language Learning
 
