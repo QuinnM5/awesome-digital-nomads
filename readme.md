@@ -63,6 +63,7 @@ Maintained by the team behind [IndepAI](https://indepai.app), the financial-inde
 - [OFX](https://www.ofx.com/) - International money transfers for individuals and businesses to 180+ countries, with multi-currency accounts.
 - [XE](https://www.xe.com/) - Live exchange-rate data, a currency converter, and international transfers to 190+ countries.
 - [Banking Access Index](https://www.globalsolo.global/data/banking-access-index) - Free CC-BY dataset tracking which of 18 US banking providers accept non-US-resident business owners across 8 countries, with evidence-verified policy claims and CSV/JSON downloads.
+- [SwapGo.me](https://swapgo.me/) - Free map of currency exchange offices in 100+ countries with addresses, opening hours and today's buy and sell rates where offices publish them; anyone can also post their own listing to exchange cash, bank transfers or crypto.
 
 ## Taxes & Legal
 
